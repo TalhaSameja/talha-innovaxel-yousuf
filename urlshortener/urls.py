@@ -5,7 +5,7 @@ from django.http import JsonResponse
 from shortener.views import index
 
 urlpatterns = [
-    path('', index),  # This renders your HTML page
+    path('', index), 
     path('admin/', admin.site.urls),
     path('', include('shortener.urls')),
 ]
