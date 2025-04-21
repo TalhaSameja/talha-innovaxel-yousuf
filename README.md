@@ -1,10 +1,10 @@
-# 🔗 Django URL Shortener API
+Django URL Shortener API
 
-A simple URL shortening RESTful API built using Django and Django REST Framework as part of the **Innovaxel ASE Take-Home Assignment**.
+A simple URL shortening RESTful API built using Django and Django REST Framework as part of the Innovaxel ASE Take-Home Assignment.
 
 ---
 
-## 🚀 Features
+Features
 
 - Shorten long URLs
 - Retrieve original URLs using short codes
@@ -16,7 +16,7 @@ A simple URL shortening RESTful API built using Django and Django REST Framework
 
 ---
 
-## 📂 Tech Stack
+Tech Stack
 
 - Python 3.11+
 - Django
@@ -26,10 +26,9 @@ A simple URL shortening RESTful API built using Django and Django REST Framework
 
 ---
 
-## 📦 Installation & Running
-
-### 1. Clone the Repo
+Installation & Running
+Clone the Repo
 
 ```bash
-git clone https://github.com/yourusername/firstname-innovaxel-lastname.git
-cd firstname-innovaxel-lastname
+git clone https://github.com/TalhaSameja/talha-innovaxel-yousuf.git
+cd talha-innovaxel-yousuf
