@@ -24,5 +24,5 @@ Installation & Running
 Clone the Repo
 
 ```bash
-git clone https://github.com/TalhaSameja/talha-innovaxel-yousuf.git
+git clone  https://github.com/TalhaSameja/talha-innovaxel-yousuf.git
 cd talha-innovaxel-yousuf
